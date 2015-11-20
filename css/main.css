@@ -159,6 +159,10 @@ PAGE: CONTACT
 }
 
 .contact-info li.mail a {
+  background-image:url('../img/skype.png');
+}
+
+.contact-info li.mail a {
   background-image:url('../img/mail.png');
 }
 
