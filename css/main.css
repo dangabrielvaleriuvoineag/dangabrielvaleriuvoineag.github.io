@@ -158,7 +158,7 @@ PAGE: CONTACT
   background-image:url('../img/phone.png');
 }
 
-.contact-info li.mail a {
+.contact-info li.skype a {
   background-image:url('../img/skype.png');
 }
 
