@@ -177,8 +177,7 @@ body {
 
 /* header color - color green */
 header {
-  /*background: #6ab47b;
-  border: #599a68;*/
+  /* original border: #599a68;*/
   background: #6ab47b;
   border: #6ab47b;
 }
@@ -195,7 +194,7 @@ a {
 
 /* nav background on mobile devices - dark green */
 nav {
-  /*background:#599a68;*/
+  /*original background:#599a68;*/
   background:#6ab47b;
 }
 
