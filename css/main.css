@@ -179,7 +179,7 @@ body {
 header {
   background: #6ab47b;
   border: #599a68;
-  background-image:linear-gradient(to top, #fff 20%,#d3d3d3 80%);
+  background-image:linear-gradient(to top, #fff 20%,#ccc 80%);
 }
 
 /* logo color - white */
