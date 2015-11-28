@@ -178,7 +178,8 @@ body {
 /* header color - color green */
 header {
   background: #6ab47b;
-  border: #599a68;  
+  border: #599a68;
+  background-image:linear-gradient(to top, #fff,#6ab47b);
 }
 
 /* logo color - white */
