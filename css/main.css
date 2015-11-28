@@ -196,7 +196,8 @@ a {
 
 /* nav background on mobile devices - dark green */
 nav {
-  background:#599a68;
+  /*background:#599a68;*/
+  background:#6ab47b;
 }
 
 /* nav link color - white */
