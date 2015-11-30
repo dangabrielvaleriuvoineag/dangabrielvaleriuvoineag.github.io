@@ -42,10 +42,24 @@
                 <input type="text" id="name" name="user_name"><br>
                 <label for="lastname">Last Name</label><br>
                 <input type="password" id="lastname" name="password">
+                
+                <input type="select" id="aboutyourself" name=aboutyoursel">
+                  <optgroup label="Individual contributer">
+                      <option value="developer">Developer</option>
+                      <option value="programmer">Programmer</option>
+                      <option value="designer>Designer</option>
+                  </optgroup>
+                  <optgroup label="Management">
+                  <option value="manager">Manager</option>
+                  <option value="program manager">Program Manager</option>
+                  </optgroup>
+                
+
               </fieldset>
               <fieldset>
-                <button type="submit">Send E-Mail</button>
-              </fieldset>  
+                <textarea id="bio" name"bio"></textarea>
+              </fieldset>   
+              <button type="submit">Send E-Mail</button>
             </form>
           </li>
        </ul>
