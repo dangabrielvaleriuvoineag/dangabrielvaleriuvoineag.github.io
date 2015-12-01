@@ -1,7 +1,8 @@
 @media screen and (max-width:480px) {
 
 nav {
- border-bottom:5px solid #599a68;
+ border-top:2px solid #599a68;
+ border-bottom:2px solid #599a68;
 }
 
 }
