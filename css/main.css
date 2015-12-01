@@ -197,6 +197,7 @@ a {
 nav {
   /*original background:#599a68;*/
   background:#6ab47b;
+  border-top:5px solid #599a68;
 }
 
 /* nav link color - white */
