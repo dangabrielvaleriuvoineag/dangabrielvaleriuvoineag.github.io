@@ -5,3 +5,7 @@ form {
 table td {
   border:solid;
 }
+
+table th {
+  border:solid;
+}
